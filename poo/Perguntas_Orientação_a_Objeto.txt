@@ -1,0 +1,31 @@
+<html lang = "pt-br">
+	<head>
+		<meta charset="utf-8"/>
+		<title>Perguntas POO</title>
+	</head>
+	<body>
+		O que é uma classe?
+
+		Podemos representar uma classe como se fosse uma caixa que contém informações dentro dela. Essas informações podemos chamar de atributos e métodos.
+
+		O que é um objeto?
+
+		Nada mais é do que uma variável que representa uma classe.
+
+		O que é um atributo?
+
+		São "variáveis" que ficam armazenadas dentro de uma classe.
+
+		O que são métodos?
+
+		Métodos são as funções dos atributos de uma classe. Ele indica o que um atributo irá realizar dentro do nosso código.
+
+		---
+
+		Estrutura de um objeto
+
+		$exemplo (Objeto) = new classe(); //Dentro da classe, contém atributos e os métodos.
+
+		Objeto "$exemplo" instancia a classe "new classe()".
+	</body>
+</html>
