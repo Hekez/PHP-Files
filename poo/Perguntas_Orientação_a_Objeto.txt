@@ -26,6 +26,6 @@
 
 		$exemplo (Objeto) = new classe(); //Dentro da classe, contém atributos e os métodos.
 
-		Objeto "$exemplo" instancia a classe "new classe()".
+		Objeto "$exemplo" instancía a classe "new classe()".
 	</body>
 </html>

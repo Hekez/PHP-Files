@@ -2,7 +2,7 @@
 
 	$frutas = array("Laranja", "Abacaxi", "Limão");
 
-	print_r($frutas);
+	print_r($frutas[0]);
 
 
 ?>
