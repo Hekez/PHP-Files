@@ -1,0 +1,10 @@
+{
+    "name": "hekez/composer",
+    "description": "Aula de php7",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {
+    	"monolog/monolog":"1.0.*",
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
